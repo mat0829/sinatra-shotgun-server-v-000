@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Super Secret Ninja Warrior Kick!"
+    "Started my server using Shotgun!"
   end
 
 end
